@@ -1,4 +1,4 @@
-# S-DES Encryption
+# S-DES De-cryption
 
 Este repositorio contiene una implementación del algoritmo S-DES (Simplified Data Encryption Standard) para cifrar imágenes. El proyecto está desarrollado en Python y utiliza operaciones básicas de permutación y suma XOR para cifrar una imagen y luego descifrarla, generando un archivo de imagen encriptado.
 
